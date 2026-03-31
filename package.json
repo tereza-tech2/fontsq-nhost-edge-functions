@@ -1,0 +1,15 @@
+{
+  "name": "fontsq-nhost-edge-functions",
+  "version": "1.0.0",
+  "description": "Edge funkce pro správu fontů v nHost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nhost/nhost-js": "^0.10.0"
+  }
+}
