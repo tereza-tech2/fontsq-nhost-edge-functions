@@ -1,0 +1,10 @@
+[cloud]
+enable_mutations = true
+
+[[projects]]
+subdomain = "jkkvgwknlmxishrpreql"
+region = "eu-central-1"
+description = "nhost edge functions for Retool project"
+admin_secret = "${NHOST_ADMIN_SECRET}"
+allow_queries = ["*"]
+allow_mutations = ["*"]
