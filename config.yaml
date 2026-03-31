@@ -1,6 +1,0 @@
-version: 1
-functions:
-  timeout: 30000
-  memory: 128
-  environment:
-    NHOST_BACKEND_URL: "https://jkkvgwknlmxishrpreql.n.host"
